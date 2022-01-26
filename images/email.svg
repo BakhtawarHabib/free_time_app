@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <filter id="Ellipse_6" x="0" y="0" width="45" height="45" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_15557" data-name="Group 15557" transform="translate(-56 -308)">
+    <g transform="matrix(1, 0, 0, 1, 56, 308)" filter="url(#Ellipse_6)">
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="13.5" cy="13.5" r="13.5" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <path id="Icon_zocial-email" data-name="Icon zocial-email" d="M.072,13.619V5q0-.015.045-.284L5.192,9.053.132,13.918a1.269,1.269,0,0,1-.06-.3ZM.746,4.113A.645.645,0,0,1,1,4.068H14.668a.848.848,0,0,1,.269.045L9.847,8.469l-.674.539L7.841,10.1,6.509,9.008l-.674-.539ZM.761,14.5l5.1-4.9,1.976,1.6,1.976-1.6,5.1,4.9a.719.719,0,0,1-.254.045H1a.678.678,0,0,1-.24-.045Zm9.73-5.449,5.06-4.341A.894.894,0,0,1,15.6,5v8.623a1.147,1.147,0,0,1-.045.3Z" transform="translate(70.666 318.193)" opacity="0.5"/>
+  </g>
+</svg>
